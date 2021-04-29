@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yanøver
+- 👀 I’m interested in all kind of 
+- 🌱 I’m currently learning websocket integration with nestjs
+- 📫 How to reach me ...

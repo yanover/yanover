@@ -1,5 +1,39 @@
-### Introduction
-My name is Yann and I am a Software Engineer. I live in Switzerland, more precisely on the edge of the canton of Bern, close to the border with the Jura.
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Yanover;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-I'm passionate about development and new technologies, I decided to use GitHub when I code in my free time to support my applications. I was a regular on Bitbucket and worked mostly on private repositories.
+<div align="center">
+    <p>My name is Yann and I am a Software Engineer. I live in Switzerland, more precisely on the edge of the canton of Bern, close to the border with the Jura.</p>
+</div>
 
+<div align="center">
+  <h2>🚀 Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+    <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">    
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff">
+    <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  </p>
+</div>

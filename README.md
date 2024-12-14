@@ -5,8 +5,15 @@
 </div>
 
 <div align="center">
-    <p>My name is Yann and I am a Software Engineer. I live in Switzerland, more precisely on the edge of the canton of Bern, close to the border with the Jura.</p>
+    <p>
+        I’m a dedicated software engineer specializing in cybersecurity and big data infrastructure. I work extensively with technologies like RabbitMQ, HDFS, Kafka, Redis, MinIO, and many 
+        more, developing secure and scalable data solutions to meet today’s cybersecurity challenges.
+    </p>
+    <p>
+        Alongside my backend expertise, I also enjoy tackling frontend projects when I can, keeping a well-rounded approach to tech.
+    </p>
 </div>
+
 
 <div align="center">
   <h2>🚀 Stack</h2>
